@@ -1,2 +1,1 @@
-# simple_shell
-ALX new simple shell file
+0x16. C - Simple Shell readme file
